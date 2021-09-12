@@ -1,4 +1,6 @@
 Hello Git Branch2 feature1
+Hello Git Branch2 feature2
+master
 Hello Jenkins
 Hello Selenium
 Testcase1
